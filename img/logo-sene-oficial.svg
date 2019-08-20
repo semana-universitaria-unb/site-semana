@@ -29,10 +29,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.64"
-     inkscape:cx="495.67145"
+     inkscape:cx="291.7652"
      inkscape:cy="591.6567"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="g3011"
      showgrid="false"
      inkscape:window-width="1920"
      inkscape:window-height="1028"
@@ -47,7 +47,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -167,12 +167,12 @@
       <text
          id="text883"
          y="225.66051"
-         x="60.119102"
+         x="60.119072"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.50951004px;line-height:1.25;font-family:'Kelly Slab';-inkscape-font-specification:'Kelly Slab';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.19106603"
          xml:space="preserve"><tspan
            style="font-size:8.50951004px;fill:#00748e;fill-opacity:1;stroke-width:3.19106603"
            y="225.66051"
-           x="60.119102"
+           x="60.119072"
            id="tspan881"
            sodipodi:role="line">23 A 27 DE SETEMBRO</tspan></text>
       <text

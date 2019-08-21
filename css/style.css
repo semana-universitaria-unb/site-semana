@@ -622,6 +622,12 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #fff;
 }
 
+#intro .img-responsive {
+	max-width: 100%; 
+	height: auto; 
+	display:block;
+}
+
 @-webkit-keyframes pulsate-btn {
   0% {
     -webkit-transform: scale(0.6, 0.6);

@@ -1325,7 +1325,21 @@ body.mobile-nav-active #mobile-nav-toggle {
 --------------------------------------------------------------*/
 
 #buy-tickets {
-  padding: 60px 0;
+  padding: 60px;
+  background: url(../img/subscribe-bg.jpg) center center no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  position: relative;
+}
+
+#buy-tickets:before {
+  content: "";
+  background: rgba(6, 12, 34, 0.6);
+  position: absolute;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  right: 0;
 }
 
 #buy-tickets .card {
@@ -1333,8 +1347,13 @@ body.mobile-nav-active #mobile-nav-toggle {
   border-radius: 5px;
   transition: all  0.3s ease-in-out;
   box-shadow: 0 10px 25px 0 rgba(6, 12, 34, 0.1);
+  margin: 0 auto;
 }
 
+#buy-tickets .section-header h2,
+#buy-tickets p {
+  color: #fff;
+}
 #buy-tickets .card:hover {
   box-shadow: 0 10px 35px 0 rgba(6, 12, 34, 0.2);
 }
@@ -1351,7 +1370,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #buy-tickets .card .card-price {
-  font-size: 48px;
+  font-size: 26px;
   margin: 0;
 }
 
@@ -1688,7 +1707,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     background-attachment: fixed;
   }
 
-  #subscribe {
+  #buy-tickets {
     background-attachment: fixed;
   }
 }
